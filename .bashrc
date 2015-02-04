@@ -1,0 +1,5 @@
+alias subl="C:/Program\ Files/Sublime\ Text\ 2/sublime_text.exe"
+alias gst="git status"
+alias ga="git add"
+alias gc="git commit"
+alias gb="git branch"
